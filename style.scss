@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+body{
+    height:300vh;
+    background-color: #080918;
+}
+
+.wrapper{
+    background-color: #AD72D6;
+    backface-visibility: hidden;
+}
+svg{
+    display:block;
+}
